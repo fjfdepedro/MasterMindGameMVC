@@ -1,4 +1,6 @@
-package mastermindMVC.models;
+package mastermindMVC.utils;
+
+import mastermindMVC.models.Color;
 
 import java.util.ArrayList;
 

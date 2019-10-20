@@ -5,6 +5,7 @@ import mastermindMVC.models.*;
 import mastermindMVC.models.Error;
 import mastermindMVC.utils.Console;
 import mastermindMVC.utils.Message;
+import mastermindMVC.utils.ValidatorCombination;
 import mastermindMVC.utils.WithConsoleModel;
 
 import java.util.ArrayList;
