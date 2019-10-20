@@ -1,5 +1,9 @@
 package mastermindMVC;
 
+import mastermindMVC.Mastermind;
+
+import java.io.IOException;
+
 /**
  * Hello world!
  *
@@ -7,6 +11,6 @@ package mastermindMVC;
 public class App 
 {
     public static void main( String[] args ) throws IOException {
-        Mastermind.play();
+        new Mastermind().play();
     }
 }
